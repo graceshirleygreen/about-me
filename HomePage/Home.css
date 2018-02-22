@@ -1,0 +1,26 @@
+#header {
+    width: 100;
+    height: auto;
+    font-size: 100px;
+    text-align: center;
+    margin: 0 auto;
+    color: beige;
+    font-family: "Verdana"; 
+}
+
+ul{
+    list-style-type: none; 
+    margin: 0px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+li a {
+    display: block;
+    width: 50px; 
+}
+
+html {
+    background-image: url("https://images.unsplash.com/photo-1493708638467-241317300c83?ixlib=rb-0.3.5&s=23024847b0bbfc9d07eb671ba6ac6fd7&auto=format&fit=crop&w=2250&q=80");
+    background-size: cover; 
+}
